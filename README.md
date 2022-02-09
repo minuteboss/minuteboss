@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @minuteboss
-- 👀 I do c++,php,mysql,javascript,html,css.
-- 🌱 I’m currently advancing in c++ object oriented programming.
-- 💞️ I’m looking to collaborate on apk/website development,managing and creating databases and much more,and password cracking and recovery.
-I'm also doing password cracking using hashcat.
+- 👀 I do python,php,mysql,javascript,html,css.
+- 🌱 I’m currently advancing in python data science.
+- 💞️ I’m looking to collaborate on python networking,python development in kivy,kali linux learning,python scripting for automation,hacking and cyber security.
+- Find my videos on youtube @Game web hub.
 - 📫 How to reach me marviynestanley@gmail.com
 
 <!---
