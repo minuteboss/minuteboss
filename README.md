@@ -3,6 +3,7 @@
 - 🌱 I’m currently advancing in python data science.
 - 💞️ I’m looking to collaborate on python networking,python development in kivy,kali linux learning,python scripting for automation,hacking and cyber security.
 - Find my videos on youtube @Game web hub.
+- Find me on https://sites.google.com/view/minuteboss/home
 - 📫 How to reach me marviynestanley@gmail.com
 
 <!---
