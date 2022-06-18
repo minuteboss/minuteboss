@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @minuteboss
-- 👀 I do python,php,mysql,javascript,html,css.
+- 👀 I do python,postgresql,c++,html,css.
 - 🌱 I’m currently advancing in python data science.
-- 💞️ I’m looking to collaborate on python networking,python development in kivy,kali linux learning,python scripting for automation,hacking and cyber security.
-- Find my videos on youtube @Game web hub.
-- Find me on https://sites.google.com/view/minuteboss/home
+- 💞️ I’m looking to collaborate on python networking,python web dev in django,kali linux learning,python scripting for automation,hacking and cyber security.
 - 📫 How to reach me marviynestanley@gmail.com
 
 <!---
